@@ -1,0 +1,9 @@
+C:\Users\sorhan\Downloads\VeritabaniIslemleri\VeritabaniIslemleri\bin\Debug\VeritabaniIslemleri.exe.config
+C:\Users\sorhan\Downloads\VeritabaniIslemleri\VeritabaniIslemleri\bin\Debug\VeritabaniIslemleri.exe
+C:\Users\sorhan\Downloads\VeritabaniIslemleri\VeritabaniIslemleri\bin\Debug\VeritabaniIslemleri.pdb
+C:\Users\sorhan\Downloads\VeritabaniIslemleri\VeritabaniIslemleri\obj\Debug\VeritabaniIslemleri.csprojResolveAssemblyReference.cache
+C:\Users\sorhan\Downloads\VeritabaniIslemleri\VeritabaniIslemleri\obj\Debug\VeritabaniIslemleri.Form1.resources
+C:\Users\sorhan\Downloads\VeritabaniIslemleri\VeritabaniIslemleri\obj\Debug\VeritabaniIslemleri.Properties.Resources.resources
+C:\Users\sorhan\Downloads\VeritabaniIslemleri\VeritabaniIslemleri\obj\Debug\VeritabaniIslemleri.csproj.GenerateResource.Cache
+C:\Users\sorhan\Downloads\VeritabaniIslemleri\VeritabaniIslemleri\obj\Debug\VeritabaniIslemleri.exe
+C:\Users\sorhan\Downloads\VeritabaniIslemleri\VeritabaniIslemleri\obj\Debug\VeritabaniIslemleri.pdb

@@ -1,0 +1,81 @@
+9.06.2018 08:48:10	This log contains information about the import schema operation into project 'Veritabani' on computer 'MBT02' by user 'sorhan'.
+9.06.2018 08:48:10	Import of database schema has started.
+9.06.2018 08:48:16	Gathering database credentials
+9.06.2018 08:48:16	Gathering database options
+9.06.2018 08:48:16	Gathering users
+9.06.2018 08:48:16	Gathering roles
+9.06.2018 08:48:16	Gathering application roles
+9.06.2018 08:48:16	Gathering role memberships
+9.06.2018 08:48:16	Gathering filegroups
+9.06.2018 08:48:16	Gathering full-text catalogs
+9.06.2018 08:48:16	Gathering assemblies
+9.06.2018 08:48:16	Gathering certificates
+9.06.2018 08:48:16	Gathering asymmetric keys
+9.06.2018 08:48:16	Gathering symmetric keys
+9.06.2018 08:48:16	Gathering encrypted symmetric keys
+9.06.2018 08:48:16	Gathering schemas
+9.06.2018 08:48:16	Gathering XML schema collections
+9.06.2018 08:48:16	Gathering user-defined data types
+9.06.2018 08:48:16	Gathering user-defined types
+9.06.2018 08:48:16	Gathering table types
+9.06.2018 08:48:16	Gathering unique keys for table types
+9.06.2018 08:48:16	Gathering primary keys for table types
+9.06.2018 08:48:16	Gathering indexes for table types
+9.06.2018 08:48:16	Gathering check constraints for table types
+9.06.2018 08:48:16	Gathering default constraints for table types
+9.06.2018 08:48:16	Gathering partition functions
+9.06.2018 08:48:16	Gathering partition schemes
+9.06.2018 08:48:16	Gathering functions
+9.06.2018 08:48:16	Gathering encrypted functions
+9.06.2018 08:48:16	Gathering aggregates
+9.06.2018 08:48:16	Gathering procedures
+9.06.2018 08:48:16	Gathering encrypted procedures
+9.06.2018 08:48:16	Gathering tables
+9.06.2018 08:48:16	Gathering primary keys
+9.06.2018 08:48:16	Gathering unique constraints
+9.06.2018 08:48:16	Gathering foreign keys
+9.06.2018 08:48:16	Gathering default constraints
+9.06.2018 08:48:16	Gathering check constraints
+9.06.2018 08:48:16	Gathering views
+9.06.2018 08:48:16	Gathering encrypted views
+9.06.2018 08:48:16	Gathering indexes
+9.06.2018 08:48:16	Gathering statistics
+9.06.2018 08:48:16	Gathering full-text index stoplists
+9.06.2018 08:48:16	Gathering search property lists
+9.06.2018 08:48:16	Gathering search properties
+9.06.2018 08:48:16	Gathering full-text indexes
+9.06.2018 08:48:16	Gathering column store indexes
+9.06.2018 08:48:16	Gathering spatial indexes
+9.06.2018 08:48:16	Gathering XML indexes
+9.06.2018 08:48:16	Gathering Selective XML indexes
+9.06.2018 08:48:16	Gathering encrypted triggers
+9.06.2018 08:48:16	Gathering triggers
+9.06.2018 08:48:16	Gathering encrypted and clr ddl triggers
+9.06.2018 08:48:16	Gathering ddl triggers
+9.06.2018 08:48:16	Gathering synonyms
+9.06.2018 08:48:16	Gathering defaults
+9.06.2018 08:48:16	Gathering data constraint uddt bindings
+9.06.2018 08:48:16	Gathering rules
+9.06.2018 08:48:16	Gathering data constraint uddt bindings
+9.06.2018 08:48:16	Gathering message types
+9.06.2018 08:48:16	Gathering queues
+9.06.2018 08:48:16	Gathering contracts
+9.06.2018 08:48:16	Gathering services
+9.06.2018 08:48:16	Gathering event notifications
+9.06.2018 08:48:16	Gathering remote service bindings
+9.06.2018 08:48:16	Gathering broker priorities
+9.06.2018 08:48:16	Gathering signatures
+9.06.2018 08:48:16	Gathering data compression options
+9.06.2018 08:48:16	Gathering sequence types
+9.06.2018 08:48:16	Gathering security policies
+9.06.2018 08:48:16	Gather column encryption keys
+9.06.2018 08:48:16	Gathering column master keys
+9.06.2018 08:48:16	Gathering external data sources
+9.06.2018 08:48:16	Gathering external file formats
+9.06.2018 08:48:16	Gathering external tables
+9.06.2018 08:48:16	Gathering extended properties
+9.06.2018 08:48:16	Scanning project for duplicate elements
+9.06.2018 08:48:16	Finished duplicate element processing
+9.06.2018 08:48:17	Finished importing database.
+9.06.2018 08:48:17	A summary of the import was saved to the following location: C:\Users\sorhan\Downloads\VeritabaniIslemleri\Veritabani\Import Schema Logs\Veritabani_20180609054810.log
+9.06.2018 08:48:17	Click Finish to continue...
